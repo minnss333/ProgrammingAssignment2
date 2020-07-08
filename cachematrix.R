@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## We are creating a special matrix which caches the inverse of a matrix
+## and if we can't find it in the special matrix, the second function will
+## calculate the inverse of that matrix for us
 
 ## makeCacheMatrix creates the special matrix
 
